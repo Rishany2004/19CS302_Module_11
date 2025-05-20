@@ -13,6 +13,7 @@ To write a program to print all of the English alphabet'
 4.Print Each Character: In each iteration, print the current character.
 5.End: Once all characters have been printed, terminate the program.
 ### Program
+```
 #include <stdio.h>
 
 int main() 
@@ -22,9 +23,9 @@ int main()
         printf("%c ", c);
     }
     
-    
     return 0;
 }
+```
 ### Output
 
 ![image](https://github.com/user-attachments/assets/b38a1338-24f2-48c4-94b2-eb85968632d0)
